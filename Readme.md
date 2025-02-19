@@ -10,8 +10,7 @@ This is a **simple Tic-Tac-Toe game** built using **Python** and **Tkinter**. It
 ✅ **Draw detection**  
 ✅ **Lightweight and easy to run**  
 
-## 📷 **Screenshots**  
-🔹 *Add screenshots here once available*  
+
 
 ## 📌 **Installation & Setup**  
 ### 1️⃣ **Clone the Repository**  
